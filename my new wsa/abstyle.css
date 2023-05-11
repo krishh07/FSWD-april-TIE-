@@ -1,0 +1,168 @@
+.body {
+    
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+ .rec12{
+    /* Rectangle 2 */
+    
+    
+    position: absolute;
+    width: 1680px;
+    height: 647px;
+    left: -67px;
+    top: 1280px;
+    
+    background: #5d615c;
+}
+.ln{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 23px;
+    height: 33px;
+    left: 700px;
+    top: 50px;
+    
+}
+.tw{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 23px;
+    height: 33px;
+    left: 750px;
+    top: 50px;
+    
+}
+.in{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 23px;
+    height: 33px;
+    left: 800px;
+    top: 50px;
+    
+}
+.fb{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 23px;
+    height: 33px;
+    left: 850px;
+    top: 50px;
+    
+}
+.yu{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 23px;
+    height: 33px;
+    left: 900px;
+    top: 50px;
+    
+}
+.fhed{
+    position: relative;
+    text-align: center;
+    top: 100px;
+    object-fit: fill;
+    left: 0px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 44px;
+    color:#ecebeb; 
+}
+.f1{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 400px;
+    top: 200px;
+    
+}
+.f2{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 630px;
+    top: 200px;
+    
+}
+.f3{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 880px;
+    top: 200px;
+    
+}
+.f4{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 1100px;
+    top: 200px;
+    
+}
+.fpar{
+   position: relative;
+    text-align: center;
+    top: 320px;
+    object-fit: fill;
+    left: 150px;
+    width: 1300px;
+
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 13px;
+    line-height: 25px;
+    color:#ecebeb; 
+}
+.copy{
+    position: relative;
+     text-align: center;
+     top: 350px;
+     object-fit: fill;
+   
+
+     font-family: inherit;
+     font-style: normal;
+     font-weight: 800;
+     font-size: 15px;
+     line-height: 25px;
+     color:#FFA500; 
+ }

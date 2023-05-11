@@ -1,0 +1,298 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-optical-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+:root{
+    --bg-color:#222327;
+    --text-color:#fff;
+    --main-color:#29fd53;
+}
+.body {
+    
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif;
+
+  }
+.rec12{
+    /* Rectangle 2 */
+    
+    
+    position: absolute;
+    width: 1800px;
+    height: 530px;
+    left: -67px;
+    top: 450px;
+    
+    background: #5d615c;
+}
+.ln{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 23px;
+    height: 33px;
+    left: 750px;
+    top: 50px;
+    
+}
+.tw{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 23px;
+    height: 33px;
+    left: 800px;
+    top: 50px;
+    
+}
+.in{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 23px;
+    height: 33px;
+    left: 850px;
+    top: 50px;
+    
+}
+.fb{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 23px;
+    height: 33px;
+    left: 900px;
+    top: 50px;
+    
+}
+.yu{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 23px;
+    height: 33px;
+    left: 950px;
+    top: 50px;
+    
+}
+.fhed{
+    position: relative;
+    text-align: center;
+    top: 120px;
+    object-fit: fill;
+     left: -50px;
+
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 44px;
+    color:#ecebeb; 
+}
+.f1{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 500px;
+    top: 200px;
+    
+}
+.f2{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 730px;
+    top: 200px;
+    
+}
+.f3{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 980px;
+    top: 200px;
+    
+}
+.f4{
+
+    /* Home */
+    
+    
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 1250px;
+    top: 200px;
+    
+}
+.fpar{
+   position: relative;
+    text-align: center;
+    top: 350px;
+    object-fit: fill;
+    left: 100px;
+    width: 1400px;
+
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 10px;
+    line-height: 25px;
+    color:#ecebeb; 
+}
+.copy{
+    position: relative;
+     text-align: center;
+     top: 380px;
+     object-fit: fill;
+    left: -100px;
+
+     font-family: inherit;
+     font-style: normal;
+     font-weight: 800;
+     font-size: 10px;
+     line-height: 25px;
+     color:#FFA500; 
+ }
+ .rec13{
+    /* Rectangle 2 */
+    
+    
+    position: absolute;
+    width: 1600px;
+    height: 450px;
+    left: 0px;
+    top: 0px;
+    background: #29fd53;
+}
+.rec131{
+    position: absolute;
+    left: 10px;
+    width: 300px;
+    font-family: monospace;
+    top: 50px;
+    color: #fff;
+    font-size: 15px;
+}
+.rec132{
+    position: absolute;
+    left: 10px;
+    width: 300px;
+    font-family: monospace;
+    top: 120px;
+    color:#fff;
+    font-size: 10px;
+}
+
+.rec133{
+    position: absolute;
+    left: 10px;
+    width: 300px;
+    font-family: monospace;
+    top: 140px;
+    color:#FFA500;
+    font-size: 13px;
+}
+.rec133:active{
+    color: #29fd53;
+    text-decoration: underline;
+}
+.rec134{
+    position: absolute;
+    left: 10px;
+    width: 300px;
+    font-family: monospace;
+    top: 70px;
+    color:#FFA500;
+    font-size: 13px;
+}
+.rec135{
+    position: absolute;
+    left: 400px;
+    width: 350px;
+    font-family: monospace;
+    top: 50px;
+    color: #fff;
+    
+}
+.rec136{
+    position: absolute;
+    left: 410px;
+    width: 350px;
+    font-family: monospace;
+    top: 100px;
+    color: #fff;
+    font-size: 15px;
+    line-height: 30px;
+}
+.rec137{
+    position: absolute;
+    left: 700px;
+    width: 350px;
+    font-family: monospace;
+    top: 50px;
+    color: #fff;
+    
+}
+.rec138{
+    position: absolute;
+    left: 710px;
+    width: 350px;
+    font-family: monospace;
+    top: 100px;
+    color: #fff;
+    font-size: 15px;
+    line-height: 30px;
+}
+.rec139{
+    position: absolute;
+    left: 1000px;
+    width: 350px;
+    font-family: monospace;
+    top: 50px;
+    color: #fff;
+    
+}
+.rec1399{
+    position: absolute;
+    left: 1010px;
+    width: 350px;
+    font-family: monospace;
+    top: 100px;
+    color: #fff;
+    font-size: 15px;
+    line-height: 30px;
+}
+.home{
+    position: absolute;
+    top: 400px;
+    left: 1400px;
+}

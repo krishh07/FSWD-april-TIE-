@@ -1,0 +1,1314 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-optical-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+:root{
+    --bg-color:#222327;
+    --text-color:#fff;
+    --main-color:#29fd53;
+}
+.body {
+    
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif;
+
+  }
+  .box{
+  /* Rectangle 3 */
+  position: absolute;
+width: 2030px;
+height: 160px;
+left: 0px;
+top: 0px;
+
+background: #F89939;
+  }
+.logo{
+    position: absolute;
+width: 145px;
+height: 200px;
+left: 53px;
+top: 20px;
+}
+.SAFI{
+    position: absolute;
+width: 249px;
+height: 110px;
+left: 243px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 88px;
+line-height: 110px;
+/* identical to box height, or 125% */
+
+letter-spacing: 0.2em;
+
+color: #494646;
+}
+.dhome{
+    position: absolute;
+width: 261px;
+height: 62px;
+left:1080px;
+top: 60px;
+
+background: #F89939;
+border-radius: 61px;
+}
+.home{
+
+    /* Home */
+    
+    
+    position: absolute;
+    text-align: center;
+    left: 80px;
+    top: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color:#ffffff;
+    
+    /* identical to box height, or 125% */
+    
+    
+    
+    }
+    .home a{
+        color: #ffffff;
+    }
+    .home a:active{
+        color: #29fd53;
+       
+    }
+    .home a:hover{
+        color: #29fd53;
+      
+        text-shadow: #0cbd09;
+        text-overflow: clip;
+        font-size: 25px;
+    }
+    .dabout{
+        position: absolute;
+    width: 261px;
+    height: 62px;
+    left: 1280px;
+    top: 60px;
+    
+    background: #F89939;
+    border-radius: 61px;
+    }
+    .about{
+    
+        /* Home */
+        
+        
+        position: absolute;
+        text-align: center;
+        left: 100px;
+        top: 15px;
+        font-family: 'Inter';
+        font-style: none;
+        font-weight: 500;
+        font-size: 20px;
+        color:#FFFFFF;
+        text-decoration: none ;
+        
+        /* identical to box height, or 125% */
+        
+        
+        
+        }
+        .about a{
+            color: #ffffff;
+        }
+        .about a:active{
+            color: #29fd53;
+           
+        }
+        .about a:hover{
+            color: #29fd53;
+          
+            text-shadow: #FFFFFF;
+            text-overflow: clip;
+            font-size: 25px;
+        }
+       
+        .dlogin{
+            position: absolute;
+        width: 261px;
+        height: 62px;
+        left: 1525px;
+        top: 60px;
+        
+        background: #F89939;
+        border-radius: 61px;
+        }
+        .login{
+        
+            /* Home */
+            
+            
+            position: absolute;
+            text-align: center;
+            left: 35px;
+            top: 15px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 20px;
+            color:#FFFFFF;
+            
+            /* identical to box height, or 125% */
+            
+            
+            
+            }
+            .login a{
+                color: #ffffff;
+            }
+            .login a:active{
+                color: #29fd53;
+                
+            }
+            .login a:hover{
+                color: #29fd53;
+                font-size: 25px;
+                text-shadow: #0cbd09;
+                text-overflow: clip;
+            }
+            .dcontact{
+                position: absolute;
+            width: 261px;
+            height: 62px;
+            left: 1750px;
+            top: 60px;
+            
+            background: #F89939;
+            border-radius: 61px;
+            }
+            .contact{
+            
+                /* Home */
+                
+                
+                position: absolute;
+                text-align: center;
+                left: 80px;
+                top: 15px;
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 20px;
+                color:#FFFFFF;
+                
+                /* identical to box height, or 125% */
+                
+                
+                
+                }
+                .contact a{
+                    color: #ffffff;
+                }
+                .contact a:active{
+                    color: #29fd53;
+                   
+                }
+                .contact a:hover{
+                    color: #29fd53;
+                  
+                    text-shadow: #FFFFFF;
+                    text-overflow: clip;
+                    font-size: 22px;
+                }
+.baground_image{
+    /* im1 1 */
+position: absolute;
+width: 100%;
+height: 692px;
+left: 37px;
+top: 230px;
+}
+
+
+.rec{
+    position: absolute;
+width: 500px;
+height: 78px;
+left: 780px;
+top: 1955px;
+background-color: #29fd53;
+box-shadow: 0 0 5px #29fd53, 0 0 25px #29fd53;
+border-radius: 15px;
+
+}
+.don{
+    position: absolute;
+width: 500px;
+height: 28px;
+left: 920px;
+top: 1980px;
+
+font-family: 'Inder';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 27px;
+/* identical to box height, or 125% */
+
+letter-spacing: 0.15em;
+
+color: #FFFFFF;
+color: #6216b9;
+}
+.rec:hover{
+box-shadow: 0 0 5px #29fd53, 0 0 25px #29fd53, 0 0 50px #29fd53, 0 0 100px #29fd53, 0 0 200px #29fd53;
+}
+
+/*rectangle box*/
+.rec1{
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 336px;
+height: 189px;
+left: 1020px;
+top: 1700px;
+
+background: #F89939;
+border-radius: 94.5px;
+}
+.rec2{
+/* Rectangle 5 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 336px;
+height: 189px;
+left: 12px;
+top: 1700px;
+
+background: #0cbd09;
+border: 1px solid #000000;
+border-radius: 94.5px;
+}
+.rec3{
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 325px;
+height: 189px;
+left: 1355px;
+top: 1700px;
+
+background: #0cbd09;
+border-radius: 94.5px;
+}
+.rec4{
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 300px;
+height: 189px;
+left: 1680px;
+top: 1700px;
+
+background: #F89939;
+border-radius: 94.5px;
+}
+.rec5{
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 336px;
+height: 189px;
+left: 685px;
+top: 1700px;
+
+background: #0cbd09;
+border-radius: 94.5px;
+}
+.rec6{
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 336px;
+height: 189px;
+left: 350px;
+top: 1700px;
+
+background: #F89939;
+border-radius: 94.5px;
+}
+.ab1{
+/* TOTAL HOMELESS COMPANION ANIMALS 84% */
+
+
+position: absolute;
+width: 175px;
+height: 57px;
+left: 86px;
+top: 1820px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #ffffff;
+}
+.ab2{
+
+/* STREET/STRAY CATs */
+
+
+position: absolute;
+width: 175px;
+height: 57px;
+left: 1100px;
+top: 1830px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #ffffff;
+}
+.ab3{
+
+/* REALINQUISHMENT RATE OF PETS */
+
+
+position: absolute;
+width: 175px;
+height: 57px;
+left: 760px;
+top: 1800px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #ffffff;
+}
+.ab4{
+
+
+/* STREET/STRAY DOG */
+
+
+position: absolute;
+width: 175px;
+height: 57px;
+left: 430px;
+top: 1820px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #ffffff;
+}
+.ab7{
+/* STREET/STRAY CATS */
+
+
+position: absolute;
+width: 175px;
+height: 57px;
+left: 430px;
+top: 1800px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #ffffff;
+}
+.ab5{
+
+/* PEOPLE BELIEVE THAT STREET DOGS SHOUD BE REMOVED. */
+
+
+position: absolute;
+width: 200px;
+height: 57px;
+left: 1410px;
+top: 1800px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #ffffff;
+}
+.ab6{
+
+    /* HOMELESS DOGS & CATS IN SHELTERS */
+    
+    
+    position: absolute;
+    width: 200px;
+    height: 57px;
+    left: 1730px;
+    top: 1820px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    
+    color: #ffffff;
+    }
+.value1{
+
+/* 79.9 million */
+
+
+position: absolute;
+width: 110px;
+height: 100px;
+left: calc(50% - 106px/2 - 850px);
+top: 1715px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 850;
+font-size: 40px;
+line-height: 45px;
+text-align: center;
+
+color: #ffffff;
+}
+
+
+.value2{
+/* 85 */
+
+
+position: absolute;
+width: 80px;
+height: 82px;
+left: calc(65% - 80px/2 + 200px);
+top: 1735px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 45px;
+text-align: center;
+
+color: #ffffff;
+}
+.value3{
+/* 50% */
+
+
+position: absolute;
+width: 109px;
+height: 82px;
+left: calc(50% - 109px/2 - 159.5px);
+top: 1740px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 45px;
+text-align: center;
+
+color: #ffffff;
+}
+.value4{
+
+/* 8.8 million  */
+
+
+position: absolute;
+width: 80px;
+height: 82px;
+left: calc(62% - 80px/2 + 555px);
+top: 1715px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 45px;
+text-align: center;
+
+color: #ffffff;
+}
+.value5{
+
+/* 9.1% million */
+
+
+position: absolute;
+width: 108px;
+height: 82px;
+left: calc(50% - 108px/2 + 170px);
+top: 1725px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 45px;
+text-align: center;
+
+color: #ffffff;
+}
+.value6{
+
+/* 62 million */
+
+
+position: absolute;
+width: 90px;
+height: 82px;
+left: calc(25% - 80px/2 - 10px);
+top: 1715px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 45px;
+text-align: center;
+
+color: #ffffff;
+}
+
+/*details*/
+.rec10{
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 2100px;
+height: 647px;
+left: -67px;
+top: 2100px;
+
+background: #FFA500;
+}
+.pic{
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 1150px;
+height: 645px;
+left: 1000px;
+top: 0px;
+max-zoom: 10%;
+}
+
+.topl{
+/* 79.9 MILLION ANIMALS AT RISK */
+
+
+position: absolute;
+width: 700px;
+height: 44px;
+left: 130px;
+top: 50px;
+object-fit:fill;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 1000px;
+font-size: 44px;
+line-height: 44px;
+/* identical to box height */
+
+text-align: center;
+
+color: #ffffff;
+}
+
+
+/* In India, street dogs are misunderstood as sangerous, savage animals. SAFI works alongside India's local shelters to recuse, rehabitate, vaccinate, and house these strays in need. */
+
+.par{
+position: absolute;
+width: 600px;
+height: 319px;
+left: 200px;
+top: 130px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #ffffff;
+}
+.top2{
+   /* HELPING THE ANIMALS NO ONE ELSE WILL*/
+   position: relative;
+   text-align: center;
+   top: 2850px;
+   object-fit: fill;
+
+   font-family: inherit;
+   font-style: normal;
+   font-weight: 800;
+   font-size: 44px;
+   line-height: 44px;
+   color:#FFA500;
+}
+.par2{
+    position: relative;
+    width: 1850px;
+    height: 319px;
+    left: 50px;
+    top: 2900px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    
+    color: #0cbd09;
+    }
+    .rec11{
+        /* Rectangle 2 */
+        
+        
+        position: absolute;
+        width: 2100px;
+        height: 647px;
+        left: -67px;
+        top: 3600px;
+        
+        background: #0cbd09;
+    }
+    .top3{
+        /* HELPING THE ANIMALS NO ONE ELSE WILL*/
+        position: relative;
+        text-align: center;
+        top: 50px;
+        object-fit: fill;
+        width: 800px;
+        left: 1250px;
+        
+
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 44px;
+        line-height: 44px;
+        color:#ffffff;
+     }
+.pic2{
+    
+        
+        
+        position: absolute;
+        width: 1200px;
+        height: 645px;
+        left: 0px;
+        top: 0px;
+        max-zoom: 10%;
+}   
+.par3{
+    position: relative;
+    width: 800px;
+    height: 319px;
+    left: 1250px;
+    top: 50px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    
+    color: #ffffff;
+    }  
+    .rec12{
+        /* Rectangle 2 */
+        
+        
+        position: absolute;
+        width: 2100px;
+        height: 647px;
+        left: -67px;
+        top: 5000px;
+        
+        background: #5d615c;
+    }
+    .ln{
+
+        /* Home */
+        
+        
+        position: absolute;
+        width: 23px;
+        height: 33px;
+        left: 900px;
+        top: 50px;
+        
+    }
+    .tw{
+
+        /* Home */
+        
+        
+        position: absolute;
+        width: 23px;
+        height: 33px;
+        left: 950px;
+        top: 50px;
+        
+    }
+    .in{
+
+        /* Home */
+        
+        
+        position: absolute;
+        width: 23px;
+        height: 33px;
+        left: 1000px;
+        top: 50px;
+        
+    }
+    .fb{
+
+        /* Home */
+        
+        
+        position: absolute;
+        width: 23px;
+        height: 33px;
+        left: 1050px;
+        top: 50px;
+        
+    }
+    .yu{
+
+        /* Home */
+        
+        
+        position: absolute;
+        width: 23px;
+        height: 33px;
+        left: 1100px;
+        top: 50px;
+        
+    }
+    .fhed{
+        position: relative;
+        text-align: center;
+        top: 100px;
+        object-fit: fill;
+     
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 35px;
+        line-height: 44px;
+        color:#ecebeb; 
+    }
+    .f1{
+
+        /* Home */
+        
+        
+        position: absolute;
+        width: 150px;
+        height: 150px;
+        left: 600px;
+        top: 200px;
+        
+    }
+    .f2{
+
+        /* Home */
+        
+        
+        position: absolute;
+        width: 150px;
+        height: 150px;
+        left: 830px;
+        top: 200px;
+        
+    }
+    .f3{
+
+        /* Home */
+        
+        
+        position: absolute;
+        width: 150px;
+        height: 150px;
+        left: 1080px;
+        top: 200px;
+        
+    }
+    .f4{
+
+        /* Home */
+        
+        
+        position: absolute;
+        width: 150px;
+        height: 150px;
+        left: 1300px;
+        top: 200px;
+        
+    }
+    .fpar{
+       position: relative;
+        text-align: center;
+        top: 350px;
+        object-fit: fill;
+        left: 200px;
+        width: 1780px;
+
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 15px;
+        line-height: 25px;
+        color:#ecebeb; 
+    }
+    .copy{
+        position: relative;
+         text-align: center;
+         top: 400px;
+         object-fit: fill;
+       
+ 
+         font-family: inherit;
+         font-style: normal;
+         font-weight: 800;
+         font-size: 15px;
+         line-height: 25px;
+         color:#FFA500; 
+     }
+.box1{
+        /* Rectangle 1 */
+
+
+position: absolute;
+width: 350px;
+height: 439px;
+left: 130px;
+top: 4400px;
+
+background: #0cbd09;
+border-radius: 32px;
+}
+.box2{
+    /* Rectangle 1 */
+
+
+position: absolute;
+width: 350px;
+height: 439px;
+left: 580px;
+top: 4400px;
+
+background: #7e7272;
+border-radius: 32px;
+}
+.box3{
+    /* Rectangle 1 */
+
+
+position: absolute;
+width: 350px;
+height: 439px;
+left: 1050px;
+top: 4400px;
+
+background: #FFA500;
+border-radius: 32px;
+}
+.box4{
+    /* Rectangle 1 */
+
+
+position: absolute;
+width: 350px;
+height: 439px;
+left: 1500px;
+top: 4400px;
+
+background: #0cbd09;
+border-radius: 32px;
+}
+.b1{
+    /* HELPING THE ANIMALS NO ONE ELSE WILL*/
+    position: relative;
+    text-align: center;
+    top: 35px;
+    object-fit: fill;
+
+    
+
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 44px;
+    color:#ffffff;
+ }
+ .b2{
+    /* HELPING THE ANIMALS NO ONE ELSE WILL*/
+    position: relative;
+    text-align: center;
+    top: 35px;
+    object-fit: fill;
+
+    
+
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 44px;
+    color:#ffffff;
+ }
+ .b3{
+    /* HELPING THE ANIMALS NO ONE ELSE WILL*/
+    position: relative;
+    text-align: center;
+    top: 35px;
+    object-fit: fill;
+
+    
+
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 44px;
+    color:#ffffff;
+ }
+ .b4{
+    /* HELPING THE ANIMALS NO ONE ELSE WILL*/
+    position: relative;
+    text-align: center;
+    top: 35px;
+    object-fit: fill;
+
+    
+
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 44px;
+    color:#ffffff;
+ }
+ .bpar1{
+    /* HELPING THE ANIMALS NO ONE ELSE WILL*/
+    position: relative;
+    text-align:center;
+    top: 45px;
+    object-fit: fill;
+    left: 30px;
+    width: 83%;
+    
+
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 35px;
+    color:#ffffff;
+ }
+ .bpar2{
+    /* HELPING THE ANIMALS NO ONE ELSE WILL*/
+    position: relative;
+    text-align:center;
+    top: 45px;
+    object-fit: fill;
+    left: 30px;
+    width: 83%;
+    
+
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 35px;
+    color:#ffffff;
+ }
+ .bpar3{
+    /* HELPING THE ANIMALS NO ONE ELSE WILL*/
+    position: relative;
+    text-align:center;
+    top: 45px;
+    object-fit: fill;
+    left: 30px;
+    width: 83%;
+    
+
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 35px;
+    color:#ffffff;
+ }
+ .bpar4{
+    /* HELPING THE ANIMALS NO ONE ELSE WILL*/
+    position: relative;
+    text-align:center;
+    top: 45px;
+    object-fit: fill;
+    left: 30px;
+    width: 83%;
+
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 35px;
+    color:#ffffff;
+ }
+ .but1{
+ position: absolute;
+width: 318px;
+height: 71px;
+left: 250.81px;
+top: 2590px;
+box-shadow: 0 0 5px #29fd53, 0 0 25px #29fd53;
+background: #0cbd09;
+border-radius: 40px;
+transform: rotate(-0.31deg);
+ }
+ .but1:hover{
+    box-shadow: 0 0 5px #29fd53, 0 0 25px #29fd53, 0 0 50px #29fd53, 0 0 100px #29fd53, 0 0 200px #29fd53;
+    }
+ .but11{
+    /* HELPING THE ANIMALS NO ONE ELSE WILL*/
+    position: relative;
+    text-align: center;
+    top: 10px;
+    object-fit: fill;
+   
+   
+    
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    color:#ffffff;
+ }
+ .but2{
+    position: absolute;
+   width: 450px;
+   height: 71px;
+   left: 1400.81px;
+   top: 4100px;
+   box-shadow: 0 0 5px #FFA500, 0 0 25px #FFA500;
+   background: #FFA500;
+   border-radius: 40px;
+   transform: rotate(-0.31deg);
+    }
+    .but2:hover{
+        box-shadow: 0 0 5px #ee9a09, 0 0 25px #ee9a09, 0 0 50px #ee9a09, 0 0 100px #ee9a09, 0 0 200px #ee9a09;
+        }
+    .but22{
+       /* HELPING THE ANIMALS NO ONE ELSE WILL*/
+       position: relative;
+       text-align: center;
+       top: 10px;
+       object-fit: fill;
+      
+      
+       
+   
+       font-family: Roboto, sans-serif;
+       font-style: normal;
+       font-weight: 800;
+       font-size: 30px;
+       color:#ffffff;
+    }
+    .but3:hover{
+        box-shadow: 0 0 5px #867979, 0 0 25px #867979, 0 0 50px #867979, 0 0 100px #867979, 0 0 200px #867979;
+        }
+    .but3{
+        position: absolute;
+width: 240.65px;
+height: 54.15px;
+left: 180.9px;
+top: 4700px;
+
+background: #7e7272;
+border-radius: 40px;
+transform: rotate(-0.31deg);
+    }
+    .but33{
+
+        /* Home */
+        
+        
+        position: absolute;
+        text-align: center;
+        left: 60px;
+        top: 15px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 23px;
+        color:#ffffff;
+        
+        /* identical to box height, or 125% */
+        
+        
+        
+        }
+        .but4{
+            position: absolute;
+    width: 240.65px;
+    height: 54.15px;
+    left: 630.9px;
+    top: 4700px;
+    
+    background: #FFA500;
+    border-radius: 40px;
+    transform: rotate(-0.31deg);
+        }
+        .but4:hover{
+            box-shadow: 0 0 5px #f6a205, 0 0 25px #f6a205, 0 0 50px #f6a205, 0 0 100px #f6a205, 0 0 200px #f6a205;
+            }
+        .but44{
+    
+            /* Home */
+            
+            
+            position: absolute;
+            text-align: center;
+            left: 60px;
+            top: 15px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 23px;
+            color:#ffffff;
+            
+            /* identical to box height, or 125% */
+            
+            
+            
+            }
+            .but5{
+                position: absolute;
+        width: 240.65px;
+        height: 54.15px;
+        left: 1100.9px;
+        top: 4700px;
+        
+        background: #0cbd09;
+        border-radius: 40px;
+        transform: rotate(-0.31deg);
+            }
+            .but5:hover{
+                box-shadow: 0 0 5px #0cbd09, 0 0 25px #0cbd09, 0 0 50px #0cbd09, 0 0 100px #0cbd09, 0 0 200px #0cbd09;
+                }
+            .but55{
+        
+                /* Home */
+                
+                
+                position: absolute;
+                text-align: center;
+                left: 60px;
+                top: 15px;
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 23px;
+                color:#ffffff;
+                
+                /* identical to box height, or 125% */
+                
+                
+                
+                }
+                .but6{
+                    position: absolute;
+            width: 240.65px;
+            height: 54.15px;
+            left: 1550.9px;
+            top: 4700px;
+            
+            background: #FFA500;
+            border-radius: 40px;
+            transform: rotate(-0.31deg);
+                }
+                .but6:hover{
+                    box-shadow: 0 0 5px #f6a205, 0 0 25px #f6a205, 0 0 50px #f6a205, 0 0 100px #f6a205, 0 0 200px #f6a205;
+                    }
+                .but66{
+            
+                    /* Home */
+                    
+                    
+                    position: absolute;
+                    text-align: center;
+                    left: 60px;
+                    top: 15px;
+                    font-family: 'Inter';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 23px;
+                    color:#ffffff;
+                    
+                    /* identical to box height, or 125% */
+                    
+                    
+                    
+                    }
